@@ -40,8 +40,8 @@ Cryptocurrency UI
 		</a> 
 
 ## Screenshot
-![Cryptocurrency UI ](![image_processing20211018-3563-12pv810](https://user-images.githubusercontent.com/61135648/138693574-7bf816f0-412a-4fd6-9013-8054ccf6b94d.png)
-)
+![Cryptocurrency UI ](https://user-images.githubusercontent.com/61135648/138693574-7bf816f0-412a-4fd6-9013-8054ccf6b94d.png)
+
 
 
 
